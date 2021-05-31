@@ -12,6 +12,8 @@ class User {
     static async updateUser(id, name, lastName, email) {
         return db.push(`/users/${id}`, { name, lastName, email }, true);
     }
+
+    static async 
 }
 
 module.exports = User;
