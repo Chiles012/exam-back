@@ -1,12 +1,1 @@
-{
-    "users": {
-        "123": {
-            "name": "Chiles",
-            "lastName": "Serrano",
-            "email": "sersan.christian@gmail.com"
-        }
-    },
-    "videogames": {
-        
-    }
-}
+{"users":{"123":{"name":"Chiles","lastName":"Serrano","email":"sersan.christian@gmail.com"}},"videogames":{"name":"GTA","date":"dedweded","cat":"RPG","price":600}}
