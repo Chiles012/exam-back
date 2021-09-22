@@ -3,7 +3,8 @@
         "123": {
             "name": "Chiles",
             "lastName": "Serrano",
-            "email": "sersan.christian@gmail.com"
+            "email": "sersan.christian@gmail.com",
+            "passwd": "1234"
         }
     },
     "videogames": {
